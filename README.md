@@ -1,1 +1,2 @@
-# ArKitap projesi unity ile yapılmış bir projedir.
+# ArKitap projesi 
+unity ile yapılmış bir projedir.
